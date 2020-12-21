@@ -1,3 +1,11 @@
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./js/sw.js')
+    .then(reg => console.log('Registro de SW exitoso', reg))
+    .catch(err => console.warn('Error al tratar de registrar el sw', err))
+}
+
+
+
 /*!
     * Start Bootstrap - Creative v6.0.4 (https://startbootstrap.com/theme/creative)
     * Copyright 2013-2020 Start Bootstrap
