@@ -1,0 +1,201 @@
+
+[
+    {
+      "No": 1,
+      "Name": "Corinto",
+      "Station": "K50+975.8",
+      "Contractor": "R1"
+    },
+    {
+      "No": 2,
+      "Name": "Costa Rica",
+      "Station": "K54+088.3",
+      "Contractor": "R1"
+    },
+    {
+      "No": 3,
+      "Name": "Blanco",
+      "Station": "K56+187.6",
+      "Contractor": "R1"
+    },
+    {
+      "No": 4,
+      "Name": "Danta",
+      "Station": "K57+334.7",
+      "Contractor": "R1"
+    },
+    {
+      "No": 5,
+      "Name": "Toro Amarillo",
+      "Station": "K59+124.7",
+      "Contractor": "R1"
+    },
+    {
+      "No": 6,
+      "Name": "Molinos",
+      "Station": "K64+884.6",
+      "Contractor": "R1"
+    },
+    {
+      "No": 7,
+      "Name": "Jimenez",
+      "Station": "K67+336.8",
+      "Contractor": "R1"
+    },
+    {
+      "No": 8,
+      "Name": "Roca",
+      "Station": "K67+508.6",
+      "Contractor": "R1"
+    },
+    {
+      "No": 9,
+      "Name": "Guácimo",
+      "Station": "K73+755.6",
+      "Contractor": "R1"
+    },
+    {
+      "No": 10,
+      "Name": "Guacimito",
+      "Station": "K74+049.9",
+      "Contractor": "R1"
+    },
+    {
+      "No": 11,
+      "Name": "Parismina",
+      "Station": "K78+187.8",
+      "Contractor": "R1"
+    },
+    {
+      "No": 12,
+      "Name": "Dos Novillos",
+      "Station": "K83+035.3",
+      "Contractor": "R1"
+    },
+    {
+      "No": 13,
+      "Name": "Destierro(13)",
+      "Station": "K84+572.138",
+      "Contractor": "R1"
+    },
+    {
+      "No": 14,
+      "Name": "Dos Vueltas",
+      "Station": "K89+283",
+      "Contractor": "R1"
+    },
+    {
+      "No": 15,
+      "Name": "P.Sup Ferrocarril",
+      "Station": "K94+023.2",
+      "Contractor": "R1"
+    },
+    {
+      "No": 16,
+      "Name": " Reventazón",
+      "Station": "K94+288.3",
+      "Contractor": "R1"
+    },
+    {
+      "No": 17,
+      "Name": " Siquirres",
+      "Station": "K97+118.3",
+      "Contractor": "R1"
+    },
+    {
+      "No": 18,
+      "Name": " Pacuare",
+      "Station": "K99+668.15",
+      "Contractor": "R1"
+    },
+    {
+      "No": 19,
+      "Name": " Pacuarito",
+      "Station": "K101+586",
+      "Contractor": "R1"
+    },
+    {
+      "No": 20,
+      "Name": "Cimarrones",
+      "Station": "K106+552.8",
+      "Contractor": "R1"
+    },
+    {
+      "No": 21,
+      "Name": "Hondo",
+      "Station": "K107+805",
+      "Contractor": "R1"
+    },
+    {
+      "No": 22,
+      "Name": "Madre de Dios",
+      "Station": "K109+666.5",
+      "Contractor": "R1"
+    },
+    {
+      "No": 23,
+      "Name": "Barbilla",
+      "Station": "K115+506.3",
+      "Contractor": "R2"
+    },
+    {
+      "No": 24,
+      "Name": "Quebrada Calderon",
+      "Station": "K120+602.319",
+      "Contractor": "R2"
+    },
+    {
+      "No": 25,
+      "Name": "Aguas Claras",
+      "Station": "K121+455.878",
+      "Contractor": "R2"
+    },
+    {
+      "No": 26,
+      "Name": "San Miguel",
+      "Station": "K123+445.866",
+      "Contractor": "R2"
+    },
+    {
+      "No": 27,
+      "Name": "Chirripó",
+      "Station": "K125+303.986",
+      "Contractor": "R2"
+    },
+    {
+      "No": 28,
+      "Name": "Escondido",
+      "Station": "K133+112.5",
+      "Contractor": "R2"
+    },
+    {
+      "No": 29,
+      "Name": "Cuba",
+      "Station": "K133+950.5",
+      "Contractor": "R2"
+    },
+    {
+      "No": 30,
+      "Name": " Rojo (30)",
+      "Station": "K134+857.5",
+      "Contractor": "R2"
+    },
+    {
+      "No": 31,
+      "Name": " Toro (31)",
+      "Station": "K135+075.5",
+      "Contractor": "R2"
+    },
+    {
+      "No": 32,
+      "Name": "Madre",
+      "Station": "K141+278",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": 33,
+      "Name": "Blanco",
+      "Station": "K145+170.226",
+      "Contractor": "MECO"
+    }
+]

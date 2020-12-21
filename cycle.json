@@ -1,0 +1,68 @@
+[
+        {
+          "No": "1",
+          "Start Station": "K052+543.036",
+          "Finish Station": "K054+901.612",
+          "Distance (m)": "2,358.58"
+        },
+        {
+          "No": "2",
+          "Start Station": "K068+200.000",
+          "Finish Station": "K070+732.801",
+          "Distance (m)": "2,532.80"
+        },
+        {
+          "No": "3",
+          "Start Station": "K070+754.513",
+          "Finish Station": "K071+118.000",
+          "Distance (m)": "363.49"
+        },
+        {
+          "No": "4",
+          "Start Station": "K071+440.528",
+          "Finish Station": "K072+063.275",
+          "Distance (m)": "622.75"
+        },
+        {
+          "No": "5",
+          "Start Station": "K073+861.036",
+          "Finish Station": "K073+986.151",
+          "Distance (m)": "125.12"
+        },
+        {
+          "No": "6",
+          "Start Station": "K079+399.932",
+          "Finish Station": "K081+107.996",
+          "Distance (m)": "1,708.06"
+        },
+        {
+          "No": "7",
+          "Start Station": "K082+064.989",
+          "Finish Station": "K082+528.273",
+          "Distance (m)": "463.28"
+        },
+        {
+          "No": "8",
+          "Start Station": "K084+340.000",
+          "Finish Station": "K084+800.000",
+          "Distance (m)": "460.00"
+        },
+        {
+          "No": "9",
+          "Start Station": "K084+868.514",
+          "Finish Station": "",
+          "Distance (m)": ""
+        },
+        {
+          "No": "10",
+          "Start Station": "K089+618.759",
+          "Finish Station": "K090+072.208",
+          "Distance (m)": "453.45"
+        },
+        {
+          "No": "11",
+          "Start Station": "K147+586.438",
+          "Finish Station": "K147+586.438",
+          "Distance (m)": "0.00"
+        }
+]

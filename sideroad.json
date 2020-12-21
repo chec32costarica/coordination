@@ -1,0 +1,184 @@
+[
+    {
+      "No": "1",
+      "Start": "K054+909.423",
+      "Finish": "K055+032.102",
+      "Distance(m)": "122.68",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "2",
+      "Start": "K055+439.332",
+      "Finish": "K055+715.223",
+      "Distance(m)": "275.89",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "3",
+      "Start": "K056+287.615",
+      "Finish": "K057+217.200",
+      "Distance(m)": "929.58",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "4",
+      "Start": "K056+322.342",
+      "Finish": "K057+252.200",
+      "Distance(m)": "929.86",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "5",
+      "Start": "K059+964.627",
+      "Finish": "K061+126.393",
+      "Distance(m)": "1,161.77",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "6",
+      "Start": "K059+964.627",
+      "Finish": "K061+118.553",
+      "Distance(m)": "1,153.93",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "7",
+      "Start": "K061+556.400",
+      "Finish": "K062+390.100",
+      "Distance(m)": "833.70",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "8",
+      "Start": "K061+563.700",
+      "Finish": "K062+353.800",
+      "Distance(m)": "790.10",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "9",
+      "Start": "K063+687.002",
+      "Finish": "K064+802.100",
+      "Distance(m)": "1,115.10",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "10",
+      "Start": "K063+687.002",
+      "Finish": "K064+767.100",
+      "Distance(m)": "1,080.10",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "11",
+      "Start": "K065+362.369",
+      "Finish": "K065+595.583",
+      "Distance(m)": "233.21",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "12",
+      "Start": "K065+399.385",
+      "Finish": "K065+673.662",
+      "Distance(m)": "274.28",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "13",
+      "Start": "K066+300.000",
+      "Finish": "K066+972.620",
+      "Distance(m)": "672.62",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "14",
+      "Start": "K066+300.000",
+      "Finish": "K066+968.027",
+      "Distance(m)": "668.03",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "15",
+      "Start": "K072+040.000",
+      "Finish": "K073+349.996",
+      "Distance(m)": "1,310.00",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "16",
+      "Start": "K080+924.445",
+      "Finish": "K081+537.300",
+      "Distance(m)": "612.85",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "17",
+      "Start": "K082+547.569",
+      "Finish": "K082+940.000",
+      "Distance(m)": "392.43",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "18",
+      "Start": "K083+508.265",
+      "Finish": "K084+108.357",
+      "Distance(m)": "600.09",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "19",
+      "Start": "K083+554.000",
+      "Finish": "K083+811.781",
+      "Distance(m)": "257.78",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "20",
+      "Start": "",
+      "Finish": "K090+508.135",
+      "Distance(m)": "90,508.14",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "21",
+      "Start": "K091+356.000",
+      "Finish": "K092+918.406",
+      "Distance(m)": "1,562.41",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "22",
+      "Start": "K095+751.000",
+      "Finish": "",
+      "Distance(m)": "-95,751.00",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "23",
+      "Start": "K097+219.812",
+      "Finish": "",
+      "Distance(m)": "-97,219.81",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "24",
+      "Start": "K097+255.099",
+      "Finish": "",
+      "Distance(m)": "-97,255.10",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "25",
+      "Start": "K130+815.000",
+      "Finish": "K132+765.000",
+      "Distance(m)": "1,950.00",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "26",
+      "Start": "K130+830.000",
+      "Finish": "K132+770.000",
+      "Distance(m)": "1,940.00",
+      "Contractor": "R2 二分部"
+    }
+  ]

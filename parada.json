@@ -1,0 +1,771 @@
+[
+    {
+      "No": "1",
+      "Station": "K050+624.646",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "2",
+      "Station": "K050+670.646",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "3",
+      "Station": "K052+394.999",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "4",
+      "Station": "K052+495.953",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "5",
+      "Station": "K054+380.412",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "6",
+      "Station": "K054+449.134",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "7",
+      "Station": "K055+441.658",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "8",
+      "Station": "K055+715.223",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "9",
+      "Station": "K056+846.166",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "10",
+      "Station": "K056+977.070",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "11",
+      "Station": "K059+664.940",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "12",
+      "Station": "K059+831.836",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "13",
+      "Station": "K061+214.465",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "14",
+      "Station": "K061+251.372",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "15",
+      "Station": "K062+253.315",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "16",
+      "Station": "K062+276.149",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "17",
+      "Station": "K062+659.372",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "18",
+      "Station": "K062+890.243",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "19",
+      "Station": "K064+420.402",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "20",
+      "Station": "K064+697.985",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "21",
+      "Station": "K065+239.334",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "22",
+      "Station": "K065+595.583",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "23",
+      "Station": "K066+520.707",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "24",
+      "Station": "K066+600.427",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "25",
+      "Station": "K068+033.547",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "26",
+      "Station": "K068+196.280",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "27",
+      "Station": "K068+846.489",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "28",
+      "Station": "K069+021.226",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "29",
+      "Station": "K070+290.421",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "30",
+      "Station": "K070+351.739",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "31",
+      "Station": "K072+771.348",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "32",
+      "Station": "K072+784.602",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "33",
+      "Station": "K073+452.738",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "34",
+      "Station": "K073+570.543",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "35",
+      "Station": "K074+335.521",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "36",
+      "Station": "K074+416.708",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "37",
+      "Station": "K075+112.711",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "38",
+      "Station": "K075+135.925",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "39",
+      "Station": "K076+454.304",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "40",
+      "Station": "K076+739.043",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "41",
+      "Station": "K077+657.012",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "42",
+      "Station": "K077+693.741",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "43",
+      "Station": "K078+451.543",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "44",
+      "Station": "K078+610.126",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "45",
+      "Station": "K079+611.736",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "46",
+      "Station": "K079+772.000",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "47",
+      "Station": "K081+212.573",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "48",
+      "Station": "K081+270.631",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "49",
+      "Station": "K082+439.486",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "50",
+      "Station": "K082+454.780",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "51",
+      "Station": "K083+372.347",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "52",
+      "Station": "K083+437.811",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "53",
+      "Station": "K083+702.281",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "54",
+      "Station": "K083+811.781",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "55",
+      "Station": "K084+754.149",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "56",
+      "Station": "K084+967.282",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "57",
+      "Station": "K087+617.637",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "58",
+      "Station": "K087+617.539",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "59",
+      "Station": "K090+063.611",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "60",
+      "Station": "K090+418.658",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "61",
+      "Station": "K091+850.000",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "62",
+      "Station": "K091+850.480",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "63",
+      "Station": "K092+599.575",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "64",
+      "Station": "K092+877.004",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "65",
+      "Station": "K095+935.492",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "66",
+      "Station": "K096+014.478",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "67",
+      "Station": "K097+322.874",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "68",
+      "Station": "K097+372.391",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "69",
+      "Station": "K098+074.118",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "70",
+      "Station": "K098+107.676",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "71",
+      "Station": "K098+836.260",
+      "Location": "LD 右侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "72",
+      "Station": "K099+299.725",
+      "Location": "LI 左侧",
+      "Contractor": "R1 一分部"
+    },
+    {
+      "No": "73",
+      "Station": "K101+826.723",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "74",
+      "Station": "K102+011.703",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "75",
+      "Station": "K105+280.000",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "76",
+      "Station": "K106+800.544",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "77",
+      "Station": "K106+914.998",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "78",
+      "Station": "K108+891.203",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "79",
+      "Station": "K109+113.712",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "80",
+      "Station": "K111+094.367",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "81",
+      "Station": "K111+095.000",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "82",
+      "Station": "K112+507.017",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "83",
+      "Station": "K112+781.020",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "84",
+      "Station": "K114+273.134",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "85",
+      "Station": "K114+535.261",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "86",
+      "Station": "K115+094.444",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "87",
+      "Station": "K115+114.241",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "88",
+      "Station": "K115+784.832",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "89",
+      "Station": "K119+409.469",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "90",
+      "Station": "K119+471.158",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "91",
+      "Station": "K122+054.146",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "92",
+      "Station": "K122+202.207",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "93",
+      "Station": "K123+021.185",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "94",
+      "Station": "K123+084.481",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "95",
+      "Station": "K123+889.669",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "96",
+      "Station": "K124+144.054",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "97",
+      "Station": "K126+228.459",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "98",
+      "Station": "K128+214.957",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "99",
+      "Station": "K128+422.652",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "100",
+      "Station": "K129+526.382",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "101",
+      "Station": "K129+772.619",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "102",
+      "Station": "K131+292.465",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "103",
+      "Station": "K131+347.560",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "104",
+      "Station": "K132+312.455",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "105",
+      "Station": "K132+364.192",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "106",
+      "Station": "K133+403.850",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "107",
+      "Station": "K133+461.020",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "108",
+      "Station": "K134+617.000",
+      "Location": "LD 右侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "109",
+      "Station": "K134+645.311",
+      "Location": "LI 左侧",
+      "Contractor": "R2 二分部"
+    },
+    {
+      "No": "110",
+      "Station": "K136+873.768",
+      "Location": "LD 右侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "111",
+      "Station": "K137+317.001",
+      "Location": "LI 左侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "112",
+      "Station": "K139+404.214",
+      "Location": "LI 左侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "113",
+      "Station": "K139+643.664",
+      "Location": "LD 右侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "114",
+      "Station": "K140+392.388",
+      "Location": "LD 右侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "115",
+      "Station": "K140+483.293",
+      "Location": "LI 左侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "116",
+      "Station": "K143+002.373",
+      "Location": "LI 左侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "117",
+      "Station": "K144+515.578",
+      "Location": "LI 左侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "118",
+      "Station": "K144+519.126",
+      "Location": "LD 右侧",
+      "Contractor": "HSOLIS"
+    },
+    {
+      "No": "119",
+      "Station": "K145+585.947",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "120",
+      "Station": "K145+576.340",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "121",
+      "Station": "K148+440.715",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "122",
+      "Station": "K148+435.715",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "123",
+      "Station": "K150+542.382",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "124",
+      "Station": "K150+716.743",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "125",
+      "Station": "K153+669.790",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "126",
+      "Station": "K153+695.943",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "127",
+      "Station": "K154+843.939",
+      "Location": "LD 右侧",
+      "Contractor": "MECO"
+    },
+    {
+      "No": "128",
+      "Station": "K154+848.939",
+      "Location": "LI 左侧",
+      "Contractor": "MECO"
+    }
+  
+  ]
