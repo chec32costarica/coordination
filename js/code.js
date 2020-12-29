@@ -1,4 +1,15 @@
 
+// boton pa arriba
+
+const btnScrollToTop = document.querySelector("#btnScrollToTop");
+
+btnScrollToTop.addEventListener("click", function(){
+    window.scrollTo(0,0);
+});
+
+
+
+
 fetch("bridges.json")
 .then(response => response.json())
 .then(leon => {
