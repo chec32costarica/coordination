@@ -10156,8 +10156,8 @@ header.masthead h1 {
 
  #btnScrollToTop {
    position: fixed;
-   right: 30px;
-   bottom: 15px;
+   right: 40px;
+   bottom: 30px;
    width: 60px;
    height: 60px;
    border-radius: 50%;
@@ -10178,7 +10178,7 @@ header.masthead h1 {
  .speed-dial{
    position: fixed;
    bottom: 100px;
-   right: 15px;
+   right: 40px;
    z-index: 100;
 
  }
@@ -10197,8 +10197,8 @@ header.masthead h1 {
    justify-content: center;
    padding: 12px;
    margin-bottom: 15px;
-   background: #cccccc;
-   color: #333333;
+   background: #c50801;
+   color: #ffffff;
    border-radius: 50%;
    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
    border: none;
@@ -10213,11 +10213,6 @@ header.masthead h1 {
  .speed-dial__button:hover{
    text-decoration: none;
 }
-
- .speed-dial__button{
-  background: #aaaaaa;
-}
-
  .speed-dial__button:active{
    background: #aaaaaa;
  }
@@ -10229,7 +10224,7 @@ header.masthead h1 {
  .speed-dial__button--primary{
    margin-bottom: 0;
    padding: 18px;
-   background: #009879;
+   background: #041c4e;
    color: #ffffff;
 
  }
